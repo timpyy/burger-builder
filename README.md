@@ -15,5 +15,5 @@ CSS Modules
 Visual Studio Code
 
 ## Master Component Tree
-![Image of tree]
-(https://github.com/timpyy/burger-builder/blob/master/Burger%20Builder%20Master%20Component%20Tree.png)
+![Image of component tree]
+(/Burger%20Builder%20Master%20Component%20Tree.png)
