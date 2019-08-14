@@ -16,4 +16,5 @@ Visual Studio Code
 
 ## Master Component Tree
 ![Image of component tree]
-(/Burger%20Builder%20Master%20Component%20Tree.png)
+(/Burger Builder Master Component Tree.png)
+
