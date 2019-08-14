@@ -16,5 +16,5 @@ Visual Studio Code
 
 ## Master Component Tree
 ![Image of component tree]
-(componentTree.png)
+(https://github.com/timpyy/burger-builder/blob/master/componentTree.png)
 
