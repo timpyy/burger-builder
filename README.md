@@ -12,7 +12,7 @@ React
 
 CSS Modules
 
-Visual Studio Code
+npm install
 
 ## Master Component Tree
 ![Image of component tree](https://github.com/timpyy/burger-builder/blob/master/componentTree.png)
